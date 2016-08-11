@@ -37,3 +37,5 @@ D:\mygit\ninject-unity\EssentialTools\EssentialTools\bin\zh-Hans\System.Web.Help
 D:\mygit\ninject-unity\EssentialTools\EssentialTools\bin\zh-Hans\System.Web.Mvc.resources.dll
 D:\mygit\ninject-unity\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
 D:\mygit\ninject-unity\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb
+D:\mygit\ninject-unity\EssentialTools\EssentialTools\bin\Ninject.dll
+D:\mygit\ninject-unity\EssentialTools\EssentialTools\bin\Ninject.xml
